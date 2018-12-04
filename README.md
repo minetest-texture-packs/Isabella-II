@@ -10,7 +10,7 @@ Changes that improve Minetest compatibility are welcome!
 
 ## Downloading/Installing
 
-*Click the green "Clone or download" button
-*Click "Download ZIP"
-*Extract the zip on the OS
-*Place the "IsabellaTest v*" folder in /.minetest/textures/
+* Click the green "Clone or download" button
+* Click "Download ZIP"
+* Extract the zip on the OS
+* Place the "IsabellaTest v*" folder in /.minetest/textures/
