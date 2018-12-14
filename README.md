@@ -1,6 +1,6 @@
 # IsabellaTest
 
-![Isabella Logo](https://raw.githubusercontent.com/zayuim/IsabellaTest/master/IsabellaTest%20v0/screenshot.png)
+![Isabella Logo](https://raw.githubusercontent.com/zayuim/IsabellaTest/master/screenshot.png)
 
 [Minetest Forum](https://forum.minetest.net/viewtopic.php?f=4&t=21523) - [Isabella II (original)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1226573-16x-1-5-isabella-ii-1-5v2-i-got-yer-redstone-here) - [Isabella II × SuikaCraft](https://github.com/yurisuika/SuikaCraft) - [Isabella FeedTheBeast](https://github.com/MinecraftModArchive/Isabella-II-FTB) - [Modded Isabella](https://github.com/Gnomeo/Modded_Isabella)
 
