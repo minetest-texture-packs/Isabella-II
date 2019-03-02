@@ -14,7 +14,7 @@ Changes that improve Minetest compatibility are welcome!
 
 * Click the green "Clone or download" button
 * Click "Download ZIP"
-* Extract the zip into a new folder located in /.minetest/textures/
+* Extract the zip into a new folder located in /.minetest/textures/ [Where is that folder on my OS?](https://wiki.minetest.net/Installing_Texture_Packs)
 
 ## Contributing
 
